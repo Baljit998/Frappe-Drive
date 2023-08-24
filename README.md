@@ -57,7 +57,7 @@ Before you begin, make sure you have the following:
 
 Congratulations! You have successfully installed Ubuntu Server in VirtualBox.
 
-<img src="https://github.com/Baljit998/Presentation/blob/main/Ubuntu%20server%20setup3%20.JPG?raw=true"  width="600" height="300">
+<img src="https://github.com/Baljit998/Presentation/blob/main/Ubuntu%20server%20setup3%20.JPG?raw=true"  width="500" height="300">
 
 ## Conclusion
 
