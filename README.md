@@ -57,6 +57,9 @@ Before you begin, make sure you have the following:
 
 Congratulations! You have successfully installed Ubuntu Server in VirtualBox.
 
+![New VM](https://github.com/Baljit998/Presentation/blob/main/Ubuntu%20server%20setup3%20.JPG?raw=true)
+
+
 ## Conclusion
 
 In this tutorial, you learned how to create a virtual machine and install Ubuntu Server using VirtualBox. This setup is useful for testing, learning, and development purposes.
