@@ -30,7 +30,7 @@ Before you begin, make sure you have the following:
 
 1. Right-click on the virtual machine you created and select "Settings."
 2. Go to the "Storage" section, click on the empty optical drive, and choose the Ubuntu Server ISO image you downloaded.
-3. Start the virtual machine.
+3. Or Simply Start the virtual machine and then select the ISO image you Downloaded.
 
 ## Step 5: Install Ubuntu Server
 
@@ -57,8 +57,7 @@ Before you begin, make sure you have the following:
 
 Congratulations! You have successfully installed Ubuntu Server in VirtualBox.
 
-![New VM](https://github.com/Baljit998/Presentation/blob/main/Ubuntu%20server%20setup3%20.JPG?raw=true)
-
+[![name](https://github.com/Baljit998/Presentation/blob/main/Ubuntu server setup3 .JPG =500x350)](https://baljit998.github.io/Presentation/)
 
 ## Conclusion
 
