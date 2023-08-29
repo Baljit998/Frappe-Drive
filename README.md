@@ -12,21 +12,22 @@ Before you begin, make sure you have the following:
 ## Step 1: Create a New Virtual Machine
 
 1. Open VirtualBox and click the "New" button.
-<img src="https://github.com/Baljit998/Presentation/blob/main/images/Vbox2.JPG?raw=true"  width="500" height="300">
-
-3. Choose a name for your virtual machine (e.g., "Ubuntu Server").
-4. Select "Linux" as the type and "Ubuntu (64-bit)" as the version.
+2. Choose a name for your virtual machine (e.g., "Ubuntu Server").
+3.  Select "Linux" as the type and "Ubuntu (64-bit)" as the version.
+<img src="https://github.com/Baljit998/Presentation/blob/main/images/Vbox2.JPG?raw=true"  width="450" height="250">
 
 ## Step 2: Configure Virtual Machine Settings
 
 1. Set the memory size for your virtual machine. We recommend at least 1 GB for Ubuntu Server.
 2. Choose "Create a virtual hard disk now" and click "Create."
+<img src="https://github.com/Baljit998/Presentation/blob/main/images/Vbox3.JPG?raw=true" width="450" height="250">
 
 ## Step 3: Create a Virtual Hard Disk
 
 1. Choose "VDI (VirtualBox Disk Image)" as the hard disk file type.
 2. Select "Dynamically allocated" for storage on physical hard disk.
 3. Set the virtual hard disk size. We recommend at least 10 GB.
+<img src="https://github.com/Baljit998/Presentation/blob/main/images/Vbox4.JPG?raw=true" width="450" height="250">
 
 ## Step 4: Install Ubuntu Server
 
