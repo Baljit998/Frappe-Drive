@@ -12,8 +12,10 @@ Before you begin, make sure you have the following:
 ## Step 1: Create a New Virtual Machine
 
 1. Open VirtualBox and click the "New" button.
-2. Choose a name for your virtual machine (e.g., "Ubuntu Server").
-3. Select "Linux" as the type and "Ubuntu (64-bit)" as the version.
+<img src="https://github.com/Baljit998/Presentation/blob/main/images/Vbox2.JPG?raw=true"  width="500" height="300">
+
+3. Choose a name for your virtual machine (e.g., "Ubuntu Server").
+4. Select "Linux" as the type and "Ubuntu (64-bit)" as the version.
 
 ## Step 2: Configure Virtual Machine Settings
 
