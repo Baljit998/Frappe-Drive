@@ -15,7 +15,7 @@ Before you begin, make sure you have the following:
 2. Choose a name for your virtual machine (e.g., "Ubuntu Server").
 3.  Select "Linux" as the type and "Ubuntu (64-bit)" as the version.
 
-![Virtual |Box Install Step2](images/Vbox2.JPG)
+![Virtual Box Install Step2](images/Vbox2.JPG)
 
 
 <img src="https://github.com/Baljit998/Presentation/blob/main/images/Vbox2.JPG?raw=true"  width="450" height="250">
