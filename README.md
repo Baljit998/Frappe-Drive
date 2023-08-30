@@ -32,7 +32,7 @@ Before you begin, make sure you have the following:
 
 ![Virtual Box Install Step4](images/Vbox4.JPG)
 
-4. Now View all your Configurations. Click Finish.
+ 4. Now View all your Configurations. Click Finish.
 
 ![Virtual Box Install Step5](images/Vbox5.JPG)
 
@@ -117,10 +117,10 @@ Congratulations! You have successfully installed Ubuntu Server in VirtualBox.
 
 ![Port Forwarding in VirtualBox](images/PortFwd1.JPG)
 
-6. After filling in the necessary information, click "OK" to save the port forwarding rule.
+ 6. After filling in the necessary information, click "OK" to save the port forwarding rule.
 
 
-## Step 8: Acess your Ubuntu server via Bitvise SSH Client
+## Step 9: Acess your Ubuntu server via Bitvise SSH Client
 
 1. Go to the official Bitvise website and download the [Bitvise SSH Client](https://www.bitvise.com/ssh-client-download) installer suitable for your operating system.
 2. Once the installation is complete, launch the Bitvise SSH Client from the Start Menu or desktop shortcut, depending on where it was installed.
@@ -134,9 +134,9 @@ Congratulations! You have successfully installed Ubuntu Server in VirtualBox.
 
 ![Bitvise Profile Setup](images/Bitvise1.JPG)
 
-5. Select the profile you just created and click the "Login" button to initiate the SSH connection.
-6. If you're connecting to the server for the first time, you'll be prompted to accept the server's host key. This is a security measure to ensure you're connecting to the right server.
-7. Once the connection is established, you'll have access to your Ubuntu server's terminal through the Bitvise SSH Client's terminal window.
+ 5. Select the profile you just created and click the "Login" button to initiate the SSH connection.
+ 6. If you're connecting to the server for the first time, you'll be prompted to accept the server's host key. This is a security measure to ensure you're connecting to the right server.
+ 7. Once the connection is established, you'll have access to your Ubuntu server's terminal through the Bitvise SSH Client's terminal window.
 
 ![Bitvise Profile Setup](images/Bitvise2.JPG)
 
