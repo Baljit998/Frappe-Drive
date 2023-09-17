@@ -131,6 +131,8 @@ Congratulations! You have successfully installed Ubuntu Server in VirtualBox.
      - Username: Enter your Ubuntu server username.
      - Using Password authentication, enter your Ubuntu server password.
 4. Click the "Save Profile" button to save your SSH profile.
+5. You can also view the site on which you installed the ERPNext and frappe by setting guest port(eg 8000) and host port(eg 8010).
+6. Now open address 127.0.0.1:8010 on any browser and start using the Interface.
 
 ![Bitvise Profile Setup](images/Bitvise1.JPG)
 
