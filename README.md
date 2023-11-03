@@ -99,6 +99,13 @@ Before you begin, make sure you have the following:
 
 1. Once the virtual machine restarts, you will see the login prompt.
 2. Enter the username and password you created during installation.
+3. Now Install Some guest addition files. select Devices>Insert Guest Addition Cd Image
+4. Then Run Following commands:
+    -sudo mkdir -v /media/cdrom
+    -sudo mount /dev/cdrom /media/cdrom
+    -sudo apt install -y dkms build-essential linux-headers-generic linux-headers-$(uname -r)
+    -sudo /media/cdrom/VBoxLinuxAdditions.run
+5. Then Restart the Machine.
 
 Congratulations! You have successfully installed Ubuntu Server in VirtualBox.
 
@@ -119,8 +126,12 @@ Congratulations! You have successfully installed Ubuntu Server in VirtualBox.
 
  6. After filling in the necessary information, click "OK" to save the port forwarding rule.
 
+## Step 9: Acess your Ubuntu server via Windows PowerShell
+1. First check in your Setting>Apps>Optional feature that open ssh is installed.
+2. Now open Windows Powershell.
+3. Then access your server at baljit@ip-addresss mine is 192.168.1.15.    
 
-## Step 9: Acess your Ubuntu server via Bitvise SSH Client
+## Step 10: Acess your Ubuntu server via Bitvise SSH Client 
 
 1. Go to the official Bitvise website and download the [Bitvise SSH Client](https://www.bitvise.com/ssh-client-download) installer suitable for your operating system.
 2. Once the installation is complete, launch the Bitvise SSH Client from the Start Menu or desktop shortcut, depending on where it was installed.
